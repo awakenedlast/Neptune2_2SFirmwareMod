@@ -1,5 +1,4 @@
 # Neptune2_2SFirmwareMod
-Firmware Mod for Neptune 2 and Neptune 2S
 I wanted an updated look and feel of my Neptune 2S GUI. This is a new "theme", as well as enabling extra features such as PID tuning, switching to and from auto/manual bed leveling, adjusting steps, and custom filament preheat settings, as well as saving any/all changes to EEPROM. This is not a firmware update; it is only utilizing your current firmware.
 
 Included are the files for both the Neptune 2 and 2S. Within each is the firmware config for stock, BLTouch/3dTouch, Wifi, and both BLTouch & Wifi. Choose your printer, then choose the upgrades you currently have. Throw both "elegoo_pics" and "elegoo.txt" on the sd card root and turn on your printer.
